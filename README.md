@@ -9,7 +9,7 @@ _____
 * Estudante De AnáLise E Desenvolvimento De Sistemas Na Ftec;
 * Iniciante Como Autodidata Em ProgramaçãO;
 * Apaixonado Por Tecnologias;
-* Encantado Com A Linguagem Dart;
+* Encantado Com as linguagens Dart, Java e JavaScript;
 * E Um Eterno Aprendiz Deste Imenso Universo Chamado ProgramaçãO.
 
 _____
