@@ -6,7 +6,7 @@ _____
 
 
 ### 😄 Sobre Mim:
-* Estudante De AnáLise E Desenvolvimento De Sistemas Na FTEC;
+* Estudante de Tecnologia em Desenvolvimento Back-End;
 * Iniciante Como Autodidata Em Programação;
 * Apaixonado Por Tecnologias;
 * Encantado Com as linguagens Dart, Java e JavaScript;
