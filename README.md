@@ -5,17 +5,17 @@
 _____
 
 
-### 😄 Sobre Mim:
-* Estudante de Tecnologia em Desenvolvimento Back-End;
-* Iniciante Como Autodidata Em Programação;
-* Apaixonado Por Tecnologias;
-* Encantado com a stack MERN;
-* E Um Eterno Aprendiz Deste Imenso Universo Chamado Programação.
+### 😄 About Me:
+* Studying Higher Technology in Development Back-end;
+* Beginner as a self-taught programmer;
+* Passionate about Technologies;
+* Delighted by the MERN stack;
+* And an eternal apprentice of this wonderful and immense universe called Programming.
 
 _____
 
 
-### 📫 Contate-me :
+### 📫 Contact me :
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:xdouglas90@gmail.com) 
   [![Chat on Telegram](https://aleen42.github.io/badges/src/telegram.svg)](https://t.me/xDouglas90)
   [![Chat on Telegram](https://aleen42.github.io/badges/src/whatsapp.svg)](https://api.whatsapp.com/send?phone=5551984901520)
