@@ -9,7 +9,7 @@ _____
 * Estudante de Tecnologia em Desenvolvimento Back-End;
 * Iniciante Como Autodidata Em Programação;
 * Apaixonado Por Tecnologias;
-* Encantado Com as linguagens Dart, Java e JavaScript;
+* Encantado com a stack MERN;
 * E Um Eterno Aprendiz Deste Imenso Universo Chamado Programação.
 
 _____
