@@ -6,7 +6,7 @@ _____
 
 
 ### 😄 About Me:
-* Studying Higher Technology in Development Back-end;
+* Studying Technology in Development Back-end;
 * Beginner as a self-taught programmer;
 * Passionate about Technologies;
 * Delighted by the MERN stack;
