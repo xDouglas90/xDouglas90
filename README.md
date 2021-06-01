@@ -9,7 +9,7 @@ _____
 * Studying Technology in Development Back-end;
 * Beginner as a self-taught programmer;
 * Passionate about Technologies;
-* Delighted by functional programming and Elixir;
+* Delighted by functional programming and Elixir, JavaScript and more;
 * And an eternal apprentice of this wonderful and immense universe called Programming.
 
 _____
