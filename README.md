@@ -9,13 +9,13 @@ _____
 * Studying Technology in Development Back-end;
 * Beginner as a self-taught programmer;
 * Passionate about Technologies;
-* Delighted by functional programming and Elixir, JavaScript and more;
+* Delighted by functional programming and Elixir, JavaScript and JAMstack and much more;
 * And an eternal apprentice of this wonderful and immense universe called Programming.
 
 _____
 
 
 ### 📫 Contact me :
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:xdouglas90@gmail.com) 
-  [![Chat on Telegram](https://aleen42.github.io/badges/src/telegram.svg)](https://t.me/xDouglas90)
-  [![Chat on Telegram](https://aleen42.github.io/badges/src/whatsapp.svg)](https://api.whatsapp.com/send?phone=5551984901520)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xdouglas90@gmail.com)](mailto:xdouglas90@gmail.com) 
+  [![Chat on Telegram](https://aleen42.github.io/badges/src/telegram.svg)](https://t.me/trapDev)
+  [![Chat on Telegram](https://aleen42.github.io/badges/src/whatsapp.svg)](https://api.whatsapp.com/send?phone=5551986150326)
