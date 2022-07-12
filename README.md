@@ -17,6 +17,7 @@ _____
 * I greatly admire JAMStack, Functional Programming (especially Elixir/Erlang);
 * And I am an eternal apprentice in this immense and wonderful universe of bugs.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdouglas90&layout=compact)](https://github.com/xdouglas90/github-readme-stats)
 _____
 
 
