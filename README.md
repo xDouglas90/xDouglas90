@@ -1,4 +1,5 @@
 # Douglas Oliveira 👋
+![Lord of the Rings Art](https://i.ibb.co/ySy4jM0/Untitled.png)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/odouglas-oliveira/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/xDouglas90) 
@@ -16,8 +17,12 @@ _____
     - ReactJS, Typescript, NodeJS/NestJS, GraphQL, PostgreSQL, GO;
 * I greatly admire JAMStack, Functional Programming (especially Elixir/Erlang);
 * And I am an eternal apprentice in this immense and wonderful universe of bugs.
+* See my [Code::Stats](https://codestats.net/users/xdouglas90#signup-form).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdouglas90&layout=compact)](https://github.com/xdouglas90/github-readme-stats)
+
+<!-- ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) -->
+
 _____
 
 
