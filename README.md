@@ -19,10 +19,9 @@
 
 <ul>
     <li>Studying Technology in Development Back-end;</li>
-    <li>Web Developer Jr;
+    <li>Web Developer;
     <li>Skills: Javascript, ReactJS, JQuery, NodeJS, NestJS, HTML5, CSS3, SASS, Bootstrap, MySQL, Docker, PHP;</li>
-    <li>Studying: ReactJS, Typescript, NodeJS/NestJS, GraphQL, PostgreSQL, GO;</li>
-    <li>I greatly admire JAMStack, Functional Programming (especially Elixir/Erlang) and GO;</li>
+    <li>I greatly admire JAMStack,GO and Functional Programming (especially Elixir/Erlang);</li>
     <li>And I am an eternal apprentice in this immense and wonderful universe of bugs.</li>
 </ul>
 
