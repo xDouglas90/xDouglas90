@@ -12,7 +12,7 @@
     <h2> 😄 About Me:</h2>
 
 <a href="https://www.linkedin.com/in/odouglas-oliveira/">
- <img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/C4D03AQFbTKz3Eu2jaw/profile-displayphoto-shrink_800_800/0/1649274791131?e=1694649600&v=beta&t=6pR4BDlDYKMaMeoQpUUWYcHqreWa1-5uOt2icC1Vuo8" width="100px;" alt="Imagem de perfil do Linkedin"/>
+ <img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/C4D03AQFbTKz3Eu2jaw/profile-displayphoto-shrink_800_800/0/1649274791131?e=1703721600&v=beta&t=7VxXtUmqtzz2TqxmWUMhdfM2_Z3dkS_FdzQlalOVwzA" width="100px;" alt="Imagem de perfil do Linkedin"/>
  <br />
  <sub><b>Douglas Oliveira</b></sub></a> <a href="https://www.linkedin.com/in/odouglas-oliveira/" title="Linkedin">🚀</a>  <br />
 </div>
